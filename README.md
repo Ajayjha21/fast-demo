@@ -1,2 +1,2 @@
 # fast-demo
-this is just ademo
+this is just a demo.
